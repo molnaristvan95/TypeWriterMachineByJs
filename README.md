@@ -6,7 +6,10 @@
   <meta name="viewport" content="width=device-width">
   <title>Írógép</title>
   <style>
-  h1{
+ *{
+  margin:0;
+ }
+ h1{
   word-wrap: break-word;
   line-heigh:.9;
   displa:inline;
@@ -26,7 +29,7 @@ p{
   color:red;
 }
 button{
-  width:90vw;
+  width:90%;
   margin-left:5vw;
   height:10vh;
   margin-top:3vh;
